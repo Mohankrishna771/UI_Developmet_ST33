@@ -1,0 +1,38 @@
+
+body{
+background-image: url(bg3.webp);
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+}
+li{
+
+}
+ul{
+    display: flex;
+justify-content: space-between;
+    list-style: none;
+    margin: 20px;
+    padding: 20px;   
+}
+a{
+    font-style: italic;
+}
+form{
+    text-align: center;
+}
+footer{
+    text-align: center;
+    margin-top: 100px;
+    justify-content: center;
+}
+.aimg{
+text-align: center;
+height: 100%;
+margin: 150px;
+}
+.log{
+    text-align: center;
+    margin-top: 250px;
+margin-right: 420px;
+}
