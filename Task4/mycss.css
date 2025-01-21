@@ -1,0 +1,52 @@
+body{
+    background-image:url(bl2.webp);
+    background-size: 425px;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.first{
+
+}
+.second{
+text-align: center;
+display: flex;
+justify-content: right;
+align-content: center;
+margin-top: 5%;
+margin-left: 39%;
+margin-right: 36%;
+background-color: sienna;
+border-radius: 50px 1% ;
+}
+.heading{
+    color: black;
+    text-shadow: 5px 5px 2px rgb(172,174,164);
+
+margin-top: 0%;
+    margin-left:100%;
+    margin-right: 5%;
+    font-family:cursive;
+border: 3px double rgb(194,200,194);
+border-radius: 50px 1% ;
+
+}  
+.head,th{
+    font-family:cursive;
+   margin-left:20%;
+   text-shadow: 10px 15px 20px black;
+ color: rgb(171,144,111);
+ border: 5px brown;
+ border-radius: 50px;
+
+}  
+.bob{
+    border-radius: 30px;
+}
+.clo:hover{
+background-color: rgb(172,174,164);
+}
+.a{
+    color: antiquewhite;
+}
+

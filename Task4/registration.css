@@ -1,0 +1,32 @@
+body{
+    background-image: url(bl4.png);
+}
+.first{
+
+}
+.second{
+    
+}
+.heading{
+    text-shadow: 5px 5px 9px  black;
+   color:#c7c769;
+margin-right:20%;
+margin-left: 18%;
+margin-top: 15%;
+}
+.head,th{
+    color: rgb(60, 153, 234);
+    display: flex;
+    align-items: center;
+    margin-left: 0%;  
+    margin-top: 10%;
+    margin-right: 10px;
+    
+}
+.head,p{
+    color: aqua;
+    
+}
+.last:hover{
+   background-color:#c7c769;
+}

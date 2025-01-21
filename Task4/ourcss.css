@@ -1,0 +1,40 @@
+body{
+    background-image:url(bl3.jpg);
+    background-size: 425px;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.fi{
+
+}
+.se{
+text-align: center;
+display: flex;
+justify-content: right;
+align-content: center;
+margin-top: 5%;
+margin-left: 55%;
+margin-right: 40%;
+}
+.he{
+    
+    color: purple;
+    text-shadow: 10px 19px 9px  black;
+    text-align: center;
+box-shadow: 20px 20px 20px purple;
+margin-right:50%;
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}  
+.hea,th{
+   
+   margin-left:30%;
+   text-shadow: 10px 15px 20px white;
+  
+ color: antiquewhite;
+}  
+.ho{
+    color: blueviolet;
+}
+
+

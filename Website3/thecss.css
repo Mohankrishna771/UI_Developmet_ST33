@@ -36,3 +36,8 @@ margin: 150px;
     margin-top: 250px;
 margin-right: 420px;
 }
+a:hover{
+    color: white;
+    background-color: lightslategray;
+    
+}
