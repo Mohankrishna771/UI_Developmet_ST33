@@ -1,0 +1,78 @@
+body{
+    margin: 0px;
+}
+
+header{
+    background-color: rgb(255, 0, 0);
+    color: aliceblue;
+    text-align: center;
+    padding: 20px;
+    border: 2px rgb(9, 8, 8);
+}
+nav{
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(199, 134, 134);
+}
+ a{
+    text-decoration: none;
+    color: white;
+    margin: 60px;
+}
+a:hover{
+    background-color: aliceblue;
+    border-radius: 5px ;
+    color: black;
+}
+.AE{
+    text-align: center;
+    margin: 20px;
+    border: 2px solid black ;
+    border-radius: 20px;
+    margin-bottom: 70px;
+}
+.AE:hover{
+    box-shadow: 2px  2px 8px 2px black;
+}
+.SDE{
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ text-align: center;
+ border: 2px solid black;
+ border-radius: 20px;
+ margin: 20px;
+ margin-bottom: 70px;
+}
+.SDE:hover{
+    box-shadow: 2px  2px 8px 2px black;
+}
+.MTS{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin: 20px; 
+    margin-bottom: 70px;
+}
+.MTS ul{
+    text-align: center;
+    list-style: none;
+}
+.MTS:hover{
+    box-shadow: 2px  2px 8px 2px black;
+}
+.CT{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 2px solid black;  
+   margin-left: 400px;
+   margin-right: 400px;
+border-radius: 20px;
+}
+.CT:hover{
+    box-shadow: 2px  2px 8px 2px black;
+}
